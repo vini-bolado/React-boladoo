@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d0f9550f.css",
+    "main.js": "./static/js/main.5628c0f1.js",
+    "static/media/car.mp4": "./static/media/car.443033b57be42e739af9.mp4",
+    "static/media/eu2.jpeg": "./static/media/eu2.b5651de97dc8f590c7c5.jpeg",
+    "static/media/summer.png": "./static/media/summer.63f5350b75fcbf8e0d55.png",
+    "static/media/eai.png": "./static/media/eai.8f853ff5ce349c138859.png",
+    "static/media/link.png": "./static/media/link.4d8292d09d4257ff930c.png",
+    "static/media/lider.png": "./static/media/lider.c1403bc13b96e5f97189.png",
+    "static/media/img1.jpg": "./static/media/img1.e684cb1fb99e1743c97d.jpg",
+    "static/media/Vinicius-Evandro-CV.pdf": "./static/media/Vinicius-Evandro-CV.425f13d0b8c85a531fd0.pdf",
+    "static/media/back.png": "./static/media/back.0dce2c3e229d80da1473.png",
+    "static/media/front.png": "./static/media/front.eba60cfe01e0282f9e31.png",
+    "static/media/Breve.png": "./static/media/Breve.5e90ea34c9612e330ec4.png",
+    "index.html": "./index.html",
+    "main.d0f9550f.css.map": "./static/css/main.d0f9550f.css.map",
+    "main.5628c0f1.js.map": "./static/js/main.5628c0f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0f9550f.css",
+    "static/js/main.5628c0f1.js"
+  ]
+}
